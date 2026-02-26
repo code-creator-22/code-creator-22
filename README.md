@@ -8,48 +8,45 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<p align="left">
+  <img align="right" width="280" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+</p>
 
-🎓 BCA Student  
-💻 Passionate Software Developer  
-🧠 Strong interest in Problem Solving  
-🌱 Currently mastering Data Structures & Backend Development  
-🚀 Focused on writing clean and efficient code  
+### 👋 Hello World!
+
+I'm **Shubham**, a passionate Software Developer and BCA student focused on building strong fundamentals in Computer Science.
+
+- 💻 Writing clean and efficient code  
+- 🧠 Strong focus on logic building  
+- 🌱 Currently learning Data Structures & Backend  
+- 🔥 Improving problem-solving skills daily  
+- 🎯 Goal: Become a professional Software Engineer  
 
 ---
 
-## 📚 Current Learning Path
+## 📚 Current Learning
 
 - 📂 Data Structures & Algorithms  
-- ⚙️ Operating Systems Fundamentals  
+- ⚙️ Operating Systems  
 - 🗄️ DBMS & SQL  
-- 🔧 Git & GitHub Workflow  
-- ☕ Core Java & Backend Logic  
+- ☕ Core Java  
+- 🔧 Git & GitHub  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-`C` `C++` `Java`  
+**Languages:**  
+`C` `C++` `Java`
 
-**Web Technologies**  
-`HTML` `CSS`  
+**Web:**  
+`HTML` `CSS`
 
-**Database**  
-`MySQL`  
+**Database:**  
+`MySQL`
 
-**Tools**  
-`Git` `GitHub`  
-
----
-
-## 🔥 Featured Projects
-
-- 📊 Algorithm Visualizer  
-- 🗂️ Student Management System  
-- 🔐 OS Process Simulator  
-- 📈 Mini Data Analysis Project  
+**Tools:**  
+`Git` `GitHub`
 
 ---
 
@@ -68,8 +65,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
-</p>
-
-⭐ *“Consistency + Discipline = Real Growth.”*
+⭐ *“Discipline and consistency build great developers.”*
