@@ -1,14 +1,70 @@
-## Hi there 👋
+# 🛡️ Shubham Bhavsar | Software Developer 🚀
 
-**code-creator-22/code-creator-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👨‍💻 About Me
+
+Hi, I'm **Shubham**, a BCA student from India focused on building strong foundations in computer science and software development.
+
+- 💻 Passionate about Backend Development  
+- 📚 Currently learning Data Structures & System Design  
+- 🧠 Strong interest in Problem Solving  
+- 🚀 Goal: Become a Professional Software Engineer  
+
+---
+
+## 📌 Current Learning Path
+
+- 📂 Data Structures (Arrays, Linked List, Stack, Queue, Trees)  
+- ⚙️ Operating Systems (Process, Memory Management)  
+- 🗄️ DBMS & SQL  
+- 🔧 Git & GitHub Workflow  
+- 🌐 Backend Development (Core Java)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+`C` `C++` `Java`  
+
+**Web:**  
+`HTML` `CSS`  
+
+**Database:**  
+`MySQL`  
+
+**Tools:**  
+`Git` `GitHub`  
+
+---
+
+## 🔥 Featured Projects
+
+- 📊 Algo Visualizer (Sorting & Searching)  
+- 🗂️ Student Management System (Java + MySQL)  
+- 🔐 Mini OS Process Simulator  
+- 📈 Data Analysis Mini Project  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: Add-your-link  
+- 📧 Email: your-email@example.com  
+
+---
+
+⭐ *"Code with consistency. Build with confidence."*
