@@ -1,54 +1,55 @@
-# 🛡️ Shubham Bhavsar | Software Developer 🚀
+# 🚀 Shubham Bhavsar | Software Developer
 
-<p align="right">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Shubham**, a BCA student from India focused on building strong foundations in computer science and software development.
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-- 💻 Passionate about Backend Development  
-- 📚 Currently learning Data Structures & System Design  
-- 🧠 Strong interest in Problem Solving  
-- 🚀 Goal: Become a Professional Software Engineer  
+🎓 BCA Student  
+💻 Passionate Software Developer  
+🧠 Strong interest in Problem Solving  
+🌱 Currently mastering Data Structures & Backend Development  
+🚀 Focused on writing clean and efficient code  
 
 ---
 
-## 📌 Current Learning Path
+## 📚 Current Learning Path
 
-- 📂 Data Structures (Arrays, Linked List, Stack, Queue, Trees)  
-- ⚙️ Operating Systems (Process, Memory Management)  
+- 📂 Data Structures & Algorithms  
+- ⚙️ Operating Systems Fundamentals  
 - 🗄️ DBMS & SQL  
 - 🔧 Git & GitHub Workflow  
-- 🌐 Backend Development (Core Java)
+- ☕ Core Java & Backend Logic  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
+**Languages**  
 `C` `C++` `Java`  
 
-**Web:**  
+**Web Technologies**  
 `HTML` `CSS`  
 
-**Database:**  
+**Database**  
 `MySQL`  
 
-**Tools:**  
+**Tools**  
 `Git` `GitHub`  
 
 ---
 
 ## 🔥 Featured Projects
 
-- 📊 Algo Visualizer (Sorting & Searching)  
-- 🗂️ Student Management System (Java + MySQL)  
-- 🔐 Mini OS Process Simulator  
-- 📈 Data Analysis Mini Project  
+- 📊 Algorithm Visualizer  
+- 🗂️ Student Management System  
+- 🔐 OS Process Simulator  
+- 📈 Mini Data Analysis Project  
 
 ---
 
@@ -67,4 +68,8 @@ Hi, I'm **Shubham**, a BCA student from India focused on building strong foundat
 
 ---
 
-⭐ *"Code with consistency. Build with confidence."*
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
+</p>
+
+⭐ *“Consistency + Discipline = Real Growth.”*
