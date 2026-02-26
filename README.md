@@ -1,6 +1,6 @@
 # 🛡️ Shubham Bhavsar | Software Developer 🚀
 
-<p align="center">
+<p align="right">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450"/>
 </p>
 
